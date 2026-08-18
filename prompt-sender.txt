@@ -1,0 +1,1 @@
+SIGA O MEU DOCUMENTO TASK.MD E Construa primeiro a homepage desktop e mobile, apresente o resultado para validação e somente depois prossiga para as páginas internas e para as outras empresas. Não altere a identidade visual sem aprovação, SIGA COMPLETAMENTE [base.png](base.png) COMO LAYOUT DE TUDO.
